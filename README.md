@@ -4,7 +4,7 @@ A simple and visually appealing landing page for an international travel agency,
 
 ## Live Demo
 
-Check out the live version of the project [here](https://aviksen116.github.io/YourLandingPageProjectLink/).
+Check out the live version of the project [here](https://aviksen116.github.io/LandingPage/).
 
 ## Table of Contents
 
