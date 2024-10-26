@@ -37,4 +37,6 @@ The **World-Tour Landing Page** is a single-page application designed to provide
 - **HTML5**: For the structure of the webpage, including embedded CSS for styling.
 - **Google Fonts**: For typography.
 
+## 📧 Contact
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/avik-sen-043379273/) or check out my projects on [GitHub](https://github.com/AvikSen116).
 
