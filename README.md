@@ -12,8 +12,6 @@ Check out the live version of the project [here](https://aviksen116.github.io/La
 - [Objectives](#objectives)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Conclusion](#conclusion)
 - [Contact](#contact)
 
 ---
